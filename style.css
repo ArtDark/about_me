@@ -1,0 +1,30 @@
+#body {
+  font-family: Georgia;
+  font-size: 16px;
+  margin: 0;   /* center content */
+  max-width: 800px; /* limit width */
+  line-height: 1.5;
+  padding-top: 32px;
+  padding-bottom: 32px;
+}
+#header {
+    font-family: Times;
+    margin: 32px auto;
+
+}
+
+h1 {
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+#footer {
+    margin:  64px auto;
+}
